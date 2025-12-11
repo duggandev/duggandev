@@ -49,7 +49,7 @@
 
 ---
 
-## Proyectos *bombitas*
+## Proyectos 
 <table>
 <tr>
 
