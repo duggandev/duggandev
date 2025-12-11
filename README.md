@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 <p align="left">
   <!-- Lenguajes -->
