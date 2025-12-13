@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://github.com/zamo23/habitos.git" target="_blank">
-<img src="https://img.shields.io/badge/V1-LANZADO-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/V3-LANZADO-success?style=for-the-badge">
 </a>
 </p>
 
