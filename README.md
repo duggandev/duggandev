@@ -1,11 +1,18 @@
-<h1 align="center">Hola, soy DugganDev👋</h1>
-</div>
+<h1 align="center">Hola, soy DugganDev 👋</h1>
 
 <img src="https://i.imgur.com/KntsInt.jpeg">
 
 ---
 
-## Tecnologías
+<p align="center">
+  <a href="https://porfolio.zm-app.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portafolio-Visitar-blueviolet?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## 🛠️ Tecnologías
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,express,mysql,postgres,sqlite,react,html,css,tailwind,flutter,figma,docker,git,github,linux,postman,vercel,notion,ai,flask" />
@@ -13,7 +20,7 @@
 
 ---
 
-## Proyectos
+## 📦 Proyectos
 <table>
 <tr>
 
@@ -36,7 +43,7 @@
 </p>
 
 <p>
-Plataforma para crear y mantener <strong>hábitos diarios</strong> con rachas, análisis inteligente e IA integrada.
+Plataforma para crear y mantener <strong>hábitos diarios</strong> con rachas, análisis inteligente e IA integrada.<br>
 Incluye estadísticas personales y hábitos grupales.<br>
 <strong>Gratis, sin anuncios y sin cuentas premium.</strong>
 </p>
@@ -71,4 +78,3 @@ Guarda ideas por voz o texto, deja que la IA las entienda, las clasifique y las 
 
 </tr>
 </table>
-<br>
