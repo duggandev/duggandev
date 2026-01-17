@@ -10,8 +10,6 @@
   </a>
 </p>
 
----a
-
 ## 🛠️ Tecnologías
 
 <p align="left">
