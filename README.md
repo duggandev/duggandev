@@ -24,6 +24,24 @@
 
 <!-- PROYECTO 1 -->
 <td width="50%">
+<h3 align="center">➕ Disponible pronto</h3>
+<div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/STATUS-PR%C3%93XIMAMENTE-lightgrey?style=for-the-badge">
+</p>
+
+<p>
+<strong>Nuevos proyectos en desarrollo.</strong><br>
+Siempre explorando nuevas herramientas de creación de soluciones tecnológicas y automatización.<br>
+Mantente atento 🚀
+</p>
+
+</div>
+</td>
+
+<!-- PROYECTO 2 -->
+<td width="50%">
 <h3 align="center">💸 PagaVoz — Detector de Pagos</h3>
 <div align="center">
 <a href="https://pagavoz.lat" target="_blank">
@@ -47,7 +65,10 @@ Sistema para detectar y validar pagos en tiempo real. Se comparte y sincroniza c
 </div>
 </td>
 
-<!-- PROYECTO 2 -->
+</tr>
+<tr>
+
+<!-- PROYECTO 3 -->
 <td width="50%">
 <h3 align="center">🎬 CVPX — Gestión de Streaming</h3>
 <div align="center">
@@ -72,10 +93,7 @@ Plataforma optimizada para gestionar y organizar el flujo completo de ventas y a
 </div>
 </td>
 
-</tr>
-<tr>
-
-<!-- PROYECTO 3 -->
+<!-- PROYECTO 4 -->
 <td width="50%">
 <h3 align="center">🔥 Hábitos — Gestión de hábitos con IA</h3>
 <div align="center">
@@ -101,7 +119,10 @@ Incluye estadísticas personales y hábitos grupales.<br>
 </div>
 </td>
 
-<!-- PROYECTO 4 -->
+</tr>
+<tr>
+
+<!-- PROYECTO 5 -->
 <td width="50%">
 <h3 align="center">🧠 Thuenty Brain — Segundo Cerebro</h3>
 <div align="center">
@@ -127,10 +148,7 @@ Guarda ideas por voz o texto, deja que la IA las entienda, las clasifique y las 
 </div>
 </td>
 
-</tr>
-<tr>
-
-<!-- PROYECTO 5 -->
+<!-- PROYECTO 6 -->
 <td width="50%">
 <h3 align="center">🎨 ProntXD — Generador de prompts</h3>
 <div align="center">
@@ -153,24 +171,6 @@ Guarda ideas por voz o texto, deja que la IA las entienda, las clasifique y las 
 Sube una imagen y ProntXD genera automáticamente un <strong>prompt optimizado</strong> para recrearla usando <strong>Gemini</strong>.<br>
 Actualmente en <strong>versión v1</strong>, enfocado en rapidez y simplicidad.
 </p>
-</div>
-</td>
-
-<!-- PROYECTO 6 -->
-<td width="50%">
-<h3 align="center">➕ Disponible pronto</h3>
-<div align="center">
-
-<p>
-<img src="https://img.shields.io/badge/STATUS-PR%C3%93XIMAMENTE-lightgrey?style=for-the-badge">
-</p>
-
-<p>
-<strong>Nuevos proyectos en desarrollo.</strong><br>
-Siempre explorando nuevas herramientas de backend y automatización.<br>
-Mantente atento 🚀
-</p>
-
 </div>
 </td>
 
