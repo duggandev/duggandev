@@ -136,7 +136,7 @@ Plataforma optimizada para gestionar y organizar el flujo completo de ventas y a
 <h3 align="center">💸 PagaVoz — Detector de Pagos</h3>
 <div align="center">
 <a href="https://pagavoz.lat" target="_blank">
-<img src="https://i.imgur.com/vigWOe5.png" width="400" alt="PagaVoz">
+<img src="https://i.imgur.com/WkAzVaj.png" width="400" alt="PagaVoz">
 </a>
 
 <p>
