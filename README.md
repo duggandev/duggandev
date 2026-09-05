@@ -74,12 +74,12 @@ Guarda ideas por voz o texto, deja que la IA las entienda, las clasifique y las 
 </div>
 </td>
 
+</tr>
 <tr>
 
 <!-- PROYECTO 3 -->
-<!-- PROYECTO 3 -->
 <td width="50%">
-<h3 align="center">🎨 ProntXD — Generador de prompts desde imágenes</h3>
+<h3 align="center">🎨 ProntXD — Generador de prompts</h3>
 <div align="center">
 <a href="https://prontxd.zm-app.com" target="_blank">
 <img src="https://i.imgur.com/SomN7RZ.jpeg" width="400" alt="ProntXD">
@@ -103,8 +103,60 @@ Actualmente en <strong>versión v1</strong>, enfocado en rapidez y simplicidad.
 </div>
 </td>
 
-
 <!-- PROYECTO 4 -->
+<td width="50%">
+<h3 align="center">🎬 CVPX — Gestión de Streaming</h3>
+<div align="center">
+<a href="https://app.cvpx.mom" target="_blank">
+<img src="https://i.imgur.com/Cn3xwH4.png" width="400" alt="CVPX Streaming">
+</a>
+
+<p>
+<a href="https://app.cvpx.mom" target="_blank">
+<img src="https://img.shields.io/badge/WEB-e91e63?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/V1-LANZADO-success?style=for-the-badge">
+</a>
+</p>
+
+<p>
+<strong>Administración integral de cuentas.</strong><br>
+Plataforma optimizada para gestionar y organizar el flujo completo de ventas y accesos de servicios de <strong>streaming</strong>, Prueba gratis de manera indefinida
+</p>
+</div>
+</td>
+
+</tr>
+<tr>
+
+<!-- PROYECTO 5 -->
+<td width="50%">
+<h3 align="center">💸 PagaVoz — Detector de Pagos</h3>
+<div align="center">
+<a href="https://pagavoz.lat" target="_blank">
+<img src="https://i.imgur.com/vigWOe5.png" width="400" alt="PagaVoz">
+</a>
+
+<p>
+<a href="https://pagavoz.lat" target="_blank">
+<img src="https://img.shields.io/badge/WEB-1e88e5?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-warning?style=for-the-badge">
+</a>
+</p>
+
+<p>
+<strong>Verificación en tiempo real.</strong><br>
+Sistema diseñado para detectar, validar y notificar pagos de forma automatizada y segura.
+</p>
+</div>
+</td>
+
+<!-- PROYECTO 6 -->
 <td width="50%">
 <h3 align="center">➕ Disponible pronto</h3>
 <div align="center">
@@ -114,20 +166,13 @@ Actualmente en <strong>versión v1</strong>, enfocado en rapidez y simplicidad.
 </p>
 
 <p>
-<strong>Nuevo proyecto en desarrollo.</strong><br>
-Pronto agregaré una nueva herramienta enfocada en <strong>IA, productividad y automatización</strong>.<br>
+<strong>Nuevos proyectos en desarrollo.</strong><br>
+Siempre explorando nuevas herramientas de backend y automatización.<br>
 Mantente atento 🚀
 </p>
 
 </div>
 </td>
-
-
-
-</tr>
-
-
-
 
 </tr>
 </table>
