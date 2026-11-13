@@ -102,7 +102,7 @@ Plataforma optimizada para gestionar y organizar el flujo completo de ventas y a
 </a>
 
 <p>
-<a href="https://habitos.zm-app.com/" target="_blank">
+<a href="https://habitos.lat/" target="_blank">
 <img src="https://img.shields.io/badge/WEB-00c853?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
