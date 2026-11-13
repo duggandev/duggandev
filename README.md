@@ -97,7 +97,7 @@ Plataforma optimizada para gestionar y organizar el flujo completo de ventas y a
 <td width="50%">
 <h3 align="center">🔥 Hábitos — Gestión de hábitos con IA</h3>
 <div align="center">
-<a href="https://habitos.zm-app.com/" target="_blank">
+<a href="https://habitos.lat/" target="_blank">
 <img src="https://i.imgur.com/fjDjdNJ.jpeg" width="400" alt="Hábitos App">
 </a>
 
